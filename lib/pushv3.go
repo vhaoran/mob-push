@@ -1,4 +1,4 @@
-package mob_push_sdk
+package lib
 
 const (
 	PUSH_PUSH_URI          = "/v3/push/createPush";

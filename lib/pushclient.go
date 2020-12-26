@@ -1,4 +1,4 @@
-package mob_push_sdk
+package lib
 
 const (
 	BASE_URL  = "http://api.push.mob.com/"

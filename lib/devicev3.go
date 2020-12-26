@@ -1,4 +1,4 @@
-package mob_push_sdk
+package lib
 
 const (
 	DEVICE_GET_BY_RID  = "/device-v3/getById";

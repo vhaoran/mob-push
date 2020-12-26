@@ -1,4 +1,4 @@
-package mob_push_sdk
+package lib
 
 type PushForward struct {
 	NextType       int       `json:"nextType"`
